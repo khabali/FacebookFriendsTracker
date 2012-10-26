@@ -32,4 +32,4 @@ Android maps
 
 
 
-Version beta Téléchargable sur www.slideme.org
+Version beta Téléchargable sur www.slideme.org/application/facebookfriendstracker
